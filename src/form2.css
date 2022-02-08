@@ -1,0 +1,23 @@
+body{
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 200px;
+    background-color: rgb(64, 66, 66);
+
+    
+}
+
+.labl{
+    font-size: larger;
+}
+
+button{
+    font-size: larger;
+}
+
+#table{
+
+    font-size: larger;
+    width: 1000px;
+    text-align: center;
+}
